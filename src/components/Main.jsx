@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function click(){
     window.location.href='https://drive.google.com/uc?export=download&id=1M9E0sLq4eFf42rTJY9SPpay84UyAZzJ9';
@@ -24,8 +25,8 @@ function Main(){
             </ul>
    
 
-            <button className='button' onClick={click} type="button">Download Resume</button>
-            
+            <button className='button' onClick={click} type="button">Download Resume</button><br></br>
+            <Link to={'/bmi_calculator'}><button className='button' type="button">BMI Calculator</button></Link>
         </div>
     )
 }
