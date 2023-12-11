@@ -116,3 +116,6 @@ button:hover {
   padding: 15px;
   cursor: pointer;
 }
+error{
+  color: red;
+}
