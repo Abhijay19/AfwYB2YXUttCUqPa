@@ -3,6 +3,9 @@
 
 This project is a React web application developed as part of the CubixCraft web developer assignment. The application consists of four main components: the header, the footer, the landing page, and the BMI calculation component.
 ## Components
+
+![c1](https://github.com/Abhijay19/AfwYB2YXUttCUqPa/assets/127417011/d46ffb5f-ffaf-4850-8afc-0966cf05da26)
+
 ### Header Component:
 The header component provides a consistent navigation experience across the application.
         
@@ -18,3 +21,5 @@ Users can access the BMI calculation page through a dedicated link.
 The BMI calculation component allows users to input their weight and height.
 Real-time validation ensures that user inputs adhere to assignment requirements.
 The BMI is calculated dynamically upon entering weight and height.
+
+![c2](https://github.com/Abhijay19/AfwYB2YXUttCUqPa/assets/127417011/d1b56579-2a54-4154-9f5a-332e4da1e630)
