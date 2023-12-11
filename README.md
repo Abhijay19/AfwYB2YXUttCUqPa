@@ -1,7 +1,7 @@
 # CubixCraft Web Developer Assignment
 ## Overview
 
-This project is a React web application developed as part of the CubixCraft web developer assignment. The application consists of four main components: the header, the footer, the landing page, and the BMI calculation component.
+This project is my submission of the React web application developed as part of the CubixCraft web developer assignment. The application consists of four main components: the header, the footer, the landing page, and the BMI calculation component.
 ## Components
 
 ![c1](https://github.com/Abhijay19/AfwYB2YXUttCUqPa/assets/127417011/d46ffb5f-ffaf-4850-8afc-0966cf05da26)
@@ -14,7 +14,7 @@ The footer component offers footer information that remains constant throughout 
         
 ### Landing Page Component:
 The landing page displays essential details required by the assignment.
-It includes a download link to the developer's resume.
+It includes a download link to my resume.
 Users can access the BMI calculation page through a dedicated link.
         
 ### BMI Calculation Component:
